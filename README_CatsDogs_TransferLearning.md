@@ -18,11 +18,6 @@ Aplicar **Transfer Learning com MobileNet** para resolver o problema clássico d
 - 8.000 imagens para treinamento
 - 2.000 imagens para teste
 
-Clone o repositório com o subconjunto já organizado:
-```bash
-!git clone https://github.com/cunhamaicon/catsxdogs
-```
-
 ---
 
 ## 🔧 Tecnologias Utilizadas
